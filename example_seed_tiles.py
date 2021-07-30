@@ -1,4 +1,3 @@
-#https://scipython.com/blog/penrose-tiling-2/
 from math import pi, cos, sin
 
 from tiles.tile import RhombusTile,PentacleTile
